@@ -1,0 +1,9 @@
+{
+  "name": "Diario Macro",
+  "short_name": "Macro",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f3",
+  "theme_color": "#176b45",
+  "icons": []
+}
