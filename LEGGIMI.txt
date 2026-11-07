@@ -1,0 +1,3 @@
+DIARIO MACRO v2.3.0 STABILE
+Novita: ricerca alimenti durante l'inserimento; modifica dei tipi di giornata.
+Aggiornamento: esporta prima il backup, poi sostituisci in root index.html, manifest.json e sw.js. I dati locali restano invariati.
